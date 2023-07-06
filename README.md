@@ -1,0 +1,2 @@
+# Installation
+``` make install ```
